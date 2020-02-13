@@ -13,10 +13,10 @@ ___
 ____
 ____
 * ### BACKEND (BIG DATA)
-&copy;
-[BACKEND (BIG DATA)](https://remote.com/jobs/-jobs-specto-dev-redwood-city-ca-or-north-america-remote-full-time-ios-android-platform-system-backend-big-data--0832e451-1105-4f73-8bb2-adb8909fe7e3)
+   &copy;
+   [BACKEND (BIG DATA)](https://remote.com/jobs/-jobs-specto-dev-redwood-city-ca-or-north-america-remote-full-time-ios-android-platform-system-backend-big-data--0832e451-1105-4f73-8bb2-adb8909fe7e3)
 >This job also attracted me more...because this job needs a good **kernel developer** and **performance expert**.As i mentioned before i flashed different custom roms in my android mobile,i also flashed custom kernels in my android mobile to get better performance..i used to play with these custom roms and custom kernels in those days ...I also give preference to performance only in any device either it is a laptop or mobile rather than looks..This job also need a good developer who can create a software which can handle huge quantities of data with good performance.
 ____
- >                      >**V.GANESH
- >                      > IT-2
+ >                      **V.GANESH**
+ >                        **IT-2**
  ___                   
